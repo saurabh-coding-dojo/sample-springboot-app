@@ -8,3 +8,4 @@
 6. Publish the test case report
 7. Java application is created as a jar application in target folder
 8. Deploy this application on AWS beanstalk application
+9. Access the application. Login credentials -- Username - admin1, Password - secret1
